@@ -1,12 +1,4 @@
-# ============================================================
-# PYTHON TASKS
-# ============================================================
-
-
-# ============================================================
-# Question 1
-# Store name, age, height, and student status
-# ============================================================
+# Question 1 Store name, age, height, and student status
 
 print("\n--- Question 1 ---")
 
@@ -21,10 +13,7 @@ print("Height:", height)
 print("Student:", is_student)
 
 
-# ============================================================
-# Question 2
-# Sum, difference, product, and division of two numbers
-# ============================================================
+# Question 2 Sum, difference, product, and division of two numbers
 
 print("\n--- Question 2 ---")
 
@@ -39,10 +28,7 @@ print("Product:", num1 * num2)
 print("Division:", num1 / num2)
 
 
-# ============================================================
-# Question 3
-# Display type before and after converting to int
-# ============================================================
+# Question 3 Display type before and after converting to int
 
 print("\n--- Question 3 ---")
 
@@ -56,10 +42,7 @@ print("Data type after conversion:", type(number))
 print("Value:", number)
 
 
-# ============================================================
-# Question 4
-# Age after 5 years
-# ============================================================
+# Question 4 Age after 5 years
 
 print("\n--- Question 4 ---")
 
@@ -72,10 +55,7 @@ future_age = age + 5
 print("Your age after 5 years will be:", future_age)
 
 
-# ============================================================
-# Question 5
-# Product price with 2 decimal places
-# ============================================================
+# Question 5 Product price with 2 decimal places
 
 print("\n--- Question 5 ---")
 
@@ -86,10 +66,7 @@ price = float(price_string)
 print(f"Price: ₹{price:.2f}")
 
 
-# ============================================================
-# Question 6
-# Display name and age using f-string
-# ============================================================
+# Question 6 Display name and age using f-string
 
 print("\n--- Question 6 ---")
 
@@ -99,10 +76,7 @@ person_age = input("Enter your age: ")
 print(f"My name is {person_name} and I am {person_age} years old.")
 
 
-# ============================================================
-# Question 7
-# Area of a circle
-# ============================================================
+# Question 7 Area of a circle
 
 print("\n--- Question 7 ---")
 
@@ -115,10 +89,7 @@ area = pi * radius * radius
 print(f"Area of the circle: {area:.2f}")
 
 
-# ============================================================
-# Question 8
-# Area and perimeter of a rectangle
-# ============================================================
+# Question 8 Area and perimeter of a rectangle
 
 print("\n--- Question 8 ---")
 
@@ -132,10 +103,7 @@ print(f"Area of rectangle: {rectangle_area:.2f}")
 print(f"Perimeter of rectangle: {perimeter:.2f}")
 
 
-# ============================================================
-# Question 9
-# Total and average marks of five subjects
-# ============================================================
+# Question 9 Total and average marks of five subjects
 
 print("\n--- Question 9 ---")
 
@@ -159,9 +127,7 @@ print(f"Total     : {total:.2f}")
 print(f"Average   : {average:.2f}")
 
 
-# ============================================================
 # Question 10 Formatted product bill
-# ============================================================
 
 print("\n--- Question 10 ---")
 
