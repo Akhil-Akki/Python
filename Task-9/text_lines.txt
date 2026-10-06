@@ -1,0 +1,5 @@
+Python is easy to learn.
+Python supports file handling.
+Python supports functions.
+Python supports exception handling.
+Python is widely used.

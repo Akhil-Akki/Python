@@ -1,0 +1,4 @@
+Name: Akhil
+Age: 22
+Course: CSE
+Marks: 100
