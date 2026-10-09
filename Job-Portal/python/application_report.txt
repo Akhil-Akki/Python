@@ -1,0 +1,13 @@
+JOB PORTAL MANAGEMENT SYSTEM
+APPLICATION REPORT
+==========================================================================================
+application_id | full_name | job_title | company_name | application_date | status
+------------------------------------------------------------------------------------------
+9 | Akhil | Forward Deployed Engineer | Amazon | 2026-10-09 10:13:48 | Selected
+1 | Akhil | Python Developer | Apple | 2026-10-08 14:10:57 | Selected
+2 | Akhil | Junior SQL Developer | Apple | 2026-10-08 14:10:57 | Applied
+3 | Mahathi | Python Developer | Apple | 2026-10-08 14:10:57 | Under Review
+4 | Mahathi | Data Analyst | Google | 2026-10-08 14:10:57 | Selected
+5 | Priya | Data Analyst | Google | 2026-10-08 14:10:57 | Rejected
+6 | Manisha | React Developer | SpaceX | 2026-10-08 14:10:57 | Shortlisted
+7 | Harshitha | Machine Learning Engineer | Microsoft | 2026-10-08 14:10:57 | Selected
